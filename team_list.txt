@@ -1,0 +1,37 @@
+TeamName,Email,Password
+Real Madrid,real@madrid.com,madrid123
+Barcelona,barca@fcb.com,barca123
+Liverpool,liverpool@lfc.com,liver123
+Bayern Munich,bayern@fcb.com,bayern123
+PSG,psg@paris.com,paris123
+Manchester City,city@mcfc.com,city123
+Juventus,juve@juventus.com,juve123
+PSV Eindhoven,psv@eindhoven.com,psv123
+Rangers,rangers@rfc.com,rangers123
+Red Bull Salzburg,rb@salzburg.com,salzburg123
+Young Boys,young@boys.com,young123
+Lazio,lazio@rome.com,lazio123
+Ajax,ajax@amsterdam.com,ajax123
+Porto,porto@fcp.com,porto123
+Benfica,benfica@slb.com,benfica123
+Celtic,celtic@glasgow.com,celtic123
+Feyenoord,feyenoord@rotterdam.com,feye123
+Sporting CP,sporting@scp.com,sporting123
+Napoli,napoli@ssc.com,napoli123
+AC Milan,milan@acm.com,milan123
+Inter Milan,inter@fcim.com,inter123
+Roma,roma@asroma.com,roma123
+Sevilla,sevilla@sfc.com,sevilla123
+Atletico Madrid,atletico@atm.com,atleti123
+Valencia,valencia@vcf.com,valencia123
+Lyon,lyon@ol.com,lyon123
+Marseille,marseille@om.com,marseille123
+Monaco,monaco@asm.com,monaco123
+Dortmund,dortmund@bvb.com,bvb123
+Leipzig,leipzig@rbl.com,leipzig123
+Leverkusen,bayer@b04.com,bayer123
+Wolfsburg,wolfsburg@vfl.com,wolfs123
+Galatasaray,gala@gs.com,gala123
+Fenerbahce,fener@fb.com,fener123
+Besiktas,besiktas@bjk.com,besiktas123
+Olympiacos,olympiacos@ol.com,olymp123

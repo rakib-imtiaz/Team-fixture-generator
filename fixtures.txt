@@ -1,0 +1,11 @@
+=== Fixtures for Real Madrid ===
+1,Real Madrid,Marseille,2024-12-19 10:00
+2,Real Madrid,Barcelona,2024-12-20 10:00
+3,Real Madrid,Wolfsburg,2024-12-21 10:00
+4,Real Madrid,Sporting CP,2024-12-22 10:00
+5,Real Madrid,Sevilla,2024-12-23 10:00
+6,Real Madrid,Feyenoord,2024-12-24 10:00
+7,Real Madrid,AC Milan,2024-12-26 10:00
+8,Real Madrid,Ajax,2024-12-28 10:00
+9,Real Madrid,Young Boys,2024-12-29 10:00
+
